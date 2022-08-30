@@ -1,0 +1,4 @@
+[2020-03-24 18:16:16] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"https:\/\/rockerbrosmeat.com","localhost":"no"} {"source":"wpdesk-sender"} []
+[2020-03-24 18:16:18] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []
+[2020-05-22 04:21:32] wpdesk.DEBUG: Sender payload: {"click_action":"plugin_deactivation","plugin":"flexible-shipping\/flexible-shipping.php","plugin_name":"Flexible Shipping","reason":"other","variant_id":10,"fs_method_created":2} {"source":"wpdesk-sender"} []
+[2020-05-22 04:21:34] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []

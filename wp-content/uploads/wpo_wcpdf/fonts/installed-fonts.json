@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-Normal",
+        "bold": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-Bold",
+        "italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-Normal",
+        "bold": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-Bold",
+        "italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies",
+        "bold": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies",
+        "italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies",
+        "bold_italic": "C:\/websites-wp\/rockerbrosmeat.com\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies"
+    }
+}

@@ -1,0 +1,155 @@
+/*------------------------------------*\
+	#Menu Layout
+\*------------------------------------*/
+
+#menu-link {
+	display: none;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#nav,
+#nav ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1;
+	float: left;
+	width: 100%;
+}
+#nav a {
+	display: block;
+	text-decoration: none;
+}
+#nav li {
+	float: left;
+	list-style: none;
+}
+#nav li li {
+	float: none;
+}
+#nav li ul {
+	position: absolute;
+	z-index: 9999;
+	width: 250px;
+	height: auto;
+	left: -9999px;
+}
+#nav li ul ul {
+	margin: -37px 0 0 250px;
+}
+#nav li:hover ul ul,
+#nav li:hover ul ul ul,
+#nav li:hover ul ul ul ul{
+	left: -9999px;
+}
+#nav li:hover ul,
+#nav li li:hover ul,
+#nav li li li:hover ul,
+#nav li li li li:hover ul {
+	left: auto;
+}
+
+/*------------------------------------*\
+	#Menu Styling
+\*------------------------------------*/
+
+#nav-wrap {
+	background: #000;
+}
+#nav-wrap a {
+	color: #fff;
+	text-shadow: 0 1px 0 #000;
+	padding: 10px;
+}
+#nav-wrap a:hover {
+	color: #C1D82F;
+}
+#nav {
+	display: table;
+}
+#nav > li {
+	float: none;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	border-right: solid 1px #3a3a3a;
+	box-shadow: 1px 0 0 rgba(255,255,255,0.25);
+}
+#nav > li > a {
+	padding: 15px 0;
+	text-transform: uppercase;
+}
+#nav > li:last-child {
+	border-right: none;
+	box-shadow: none;
+}
+#nav > li:hover {
+	background: #313131;
+	background: rgba(49,49,49,.95);
+}
+#nav > li:hover > a {
+	color: #C1D82F;
+}
+#nav li ul {
+	border: solid 1px #333;
+}
+#nav li li {
+	text-align: left;
+	border-top: solid 1px #3a3a3a;
+	background: #313131;
+}
+
+/*------------------------------------*\
+	#Media Queries
+\*------------------------------------*/
+
+@media screen and (max-width: 767px) {
+	#menu-link {
+		display: block;
+	}
+	#nav {
+		display: none;
+		width: 100%;
+	}
+	#nav.active {
+		display: block;
+	}
+	#nav ul {
+		float: none;
+	}
+	#nav a {
+		font-size: inherit;
+		padding: 10px 15px;
+	}
+	#nav li {
+		width: 100%;
+		text-align: left;
+	}
+	#nav li ul {
+		position: static;
+		display: none;
+		width: 100%;
+		border: none;
+	}
+	#nav li ul ul {
+		margin: 0;
+	}
+	#nav li:hover > ul {
+		display: block;
+	}
+	#nav > li {
+		display: block;
+	}
+	#nav > li,
+	#nav > li:last-child {
+		border-right: none;
+		border-top: solid 1px #3a3a3a;
+		box-shadow: 0 1px 0 0 rgba(0,0,0,0.25) inset;
+	}
+	#nav > li > a {
+		text-align: left;
+		padding: 10px;
+	}
+}

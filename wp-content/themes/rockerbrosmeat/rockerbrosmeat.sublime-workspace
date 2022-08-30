@@ -1,0 +1,1897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"di",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ff",
+				"ff-t	font-family: \"Times New Roman\", Times, Baskerville, Georgia, serif;"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"tbc",
+				"table-cell"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"po",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"m",
+				"mt	margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"feature",
+				"feature-image"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"list-",
+				"list-bullet"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pi",
+				"position"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"first",
+				":first-of-type"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"repat",
+				"repeat"
+			],
+			[
+				"tx",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"background-re",
+				"background-repeat"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"brr",
+				"border-right"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"box-d",
+				"box-shadow"
+			],
+			[
+				"nth",
+				":nth-last-child(|)"
+			],
+			[
+				"nht",
+				":nth-child(|)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"slider",
+				"sliderUl"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"td",
+				"text-decoration"
+			],
+			[
+				"disp",
+				"display	display: inline"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"bl",
+				"blockquote"
+			],
+			[
+				"dis",
+				"display	display: block"
+			],
+			[
+				"b",
+				"border	border-style: style"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"color",
+				"color	color: hex"
+			],
+			[
+				"d",
+				"display	display: block"
+			],
+			[
+				"No",
+				"normal"
+			],
+			[
+				"padd",
+				"padding	padding-top: length"
+			],
+			[
+				"str",
+				"strong"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fl",
+				"flright"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ib",
+				"inline-block"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"padid",
+				"padding-left"
+			],
+			[
+				"c",
+				"capitalize	(c)"
+			],
+			[
+				"rpeat",
+				"repeat-x"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"nav",
+				"nav-tabs"
+			],
+			[
+				"wiu",
+				"width"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"mg",
+				"margin	margin: V H"
+			],
+			[
+				"bg",
+				"background	background-color: hex"
+			],
+			[
+				"pl",
+				"padding-left"
+			],
+			[
+				"pdt",
+				"padding-top"
+			],
+			[
+				"brd",
+				"border"
+			],
+			[
+				"ma",
+				"marker	marker-offset: auto"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"sp",
+				"splash"
+			],
+			[
+				"wio",
+				"width"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"displ",
+				"display	display: inline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 1831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 1627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	\"auto_complete\":\n	{\n		\"selected_items\":\n		[\n			[\n				\"r\",\n				\"rgba()\"\n			],\n			[\n				\"table\",\n				\"table-cell\"\n			],\n			[\n				\"di\",\n				\"d-ib	display: inline-block;\"\n			],\n			[\n				\"pad\",\n				\"padding\"\n			],\n			[\n				\"ff\",\n				\"ff-t	font-family: \\\"Times New Roman\\\", Times, Baskerville, Georgia, serif;\"\n			],\n			[\n				\"pa\",\n				\"padding-bottom\"\n			],\n			[\n				\"tran\",\n				\"transparent\"\n			],\n			[\n				\"paddin\",\n				\"padding-right\"\n			],\n			[\n				\"max-\",\n				\"max-width\"\n			],\n			[\n				\"border\",\n				\"border-right\"\n			],\n			[\n				\"fff\",\n				\"fff\"\n			],\n			[\n				\"bo\",\n				\"border\"\n			],\n			[\n				\"mar\",\n				\"margin-right\"\n			],\n			[\n				\"tbc\",\n				\"table-cell\"\n			],\n			[\n				\"border-c\",\n				\"border-collapse\"\n			],\n			[\n				\"tabl\",\n				\"table-cell\"\n			],\n			[\n				\"no\",\n				\"no-repeat\"\n			],\n			[\n				\"ta\",\n				\"target	Attr\"\n			],\n			[\n				\"in\",\n				\"inline-block\"\n			],\n			[\n				\"po\",\n				\"pos	position: ${1:relative};\"\n			],\n			[\n				\"m\",\n				\"mt	margin-top\"\n			],\n			[\n				\"text\",\n				\"text-align\"\n			],\n			[\n				\"feature\",\n				\"feature-image\"\n			],\n			[\n				\"te\",\n				\"text-decoration\"\n			],\n			[\n				\"bra\",\n				\"border-radius\"\n			],\n			[\n				\"marg\",\n				\"margin\"\n			],\n			[\n				\"list-\",\n				\"list-bullet\"\n			],\n			[\n				\"font\",\n				\"font-style\"\n			],\n			[\n				\"pi\",\n				\"position\"\n			],\n			[\n				\"back\",\n				\"background\"\n			],\n			[\n				\"ba\",\n				\"background-position\"\n			],\n			[\n				\"bac\",\n				\"background\"\n			],\n			[\n				\"inline\",\n				\"inline-block\"\n			],\n			[\n				\"min-\",\n				\"min-width\"\n			],\n			[\n				\"first\",\n				\":first-of-type\"\n			],\n			[\n				\"bor\",\n				\"border\"\n			],\n			[\n				\"repat\",\n				\"repeat\"\n			],\n			[\n				\"tx\",\n				\"text-decoration\"\n			],\n			[\n				\"backg\",\n				\"background-position\"\n			],\n			[\n				\"repeat\",\n				\"repeat-x\"\n			],\n			[\n				\"background-re\",\n				\"background-repeat\"\n			],\n			[\n				\"padding\",\n				\"padding-left\"\n			],\n			[\n				\"brr\",\n				\"border-right\"\n			],\n			[\n				\"repe\",\n				\"repeat-x\"\n			],\n			[\n				\"box-d\",\n				\"box-shadow\"\n			],\n			[\n				\"nth\",\n				\":nth-last-child(|)\"\n			],\n			[\n				\"nht\",\n				\":nth-child(|)\"\n			],\n			[\n				\"min\",\n				\"min-width\"\n			],\n			[\n				\"slider\",\n				\"sliderUl\"\n			],\n			[\n				\"re\",\n				\"repeat\"\n			],\n			[\n				\"list\",\n				\"list-style\"\n			],\n			[\n				\"tex\",\n				\"text-align\"\n			],\n			[\n				\"td\",\n				\"text-decoration\"\n			],\n			[\n				\"disp\",\n				\"display	display: inline\"\n			],\n			[\n				\"contact\",\n				\"contactForm\"\n			],\n			[\n				\"bl\",\n				\"blockquote\"\n			],\n			[\n				\"dis\",\n				\"display	display: block\"\n			],\n			[\n				\"b\",\n				\"border	border-style: style\"\n			],\n			[\n				\"lis\",\n				\"list-style\"\n			],\n			[\n				\"text-\",\n				\"text-align\"\n			],\n			[\n				\"color\",\n				\"color	color: hex\"\n			],\n			[\n				\"d\",\n				\"display	display: block\"\n			],\n			[\n				\"No\",\n				\"normal\"\n			],\n			[\n				\"padd\",\n				\"padding	padding-top: length\"\n			],\n			[\n				\"str\",\n				\"strong\"\n			],\n			[\n				\"fon\",\n				\"font-weight\"\n			],\n			[\n				\"fl\",\n				\"flright\"\n			],\n			[\n				\"inlin\",\n				\"inline-block\"\n			],\n			[\n				\"ib\",\n				\"inline-block\"\n			],\n			[\n				\"vert\",\n				\"vertical-align\"\n			],\n			[\n				\"fw\",\n				\"font-weight\"\n			],\n			[\n				\"padid\",\n				\"padding-left\"\n			],\n			[\n				\"c\",\n				\"capitalize	(c)\"\n			],\n			[\n				\"rpeat\",\n				\"repeat-x\"\n			],\n			[\n				\"background\",\n				\"background-color\"\n			],\n			[\n				\"font-\",\n				\"font-size\"\n			],\n			[\n				\"font-s\",\n				\"font-style\"\n			],\n			[\n				\"nav\",\n				\"nav-tabs\"\n			],\n			[\n				\"wiu\",\n				\"width\"\n			],\n			[\n				\"s\",\n				\"script\"\n			],\n			[\n				\"FONT\",\n				\"font-size\"\n			],\n			[\n				\"mg\",\n				\"margin	margin: V H\"\n			],\n			[\n				\"bg\",\n				\"background	background-color: hex\"\n			],\n			[\n				\"pl\",\n				\"padding-left\"\n			],\n			[\n				\"pdt\",\n				\"padding-top\"\n			],\n			[\n				\"brd\",\n				\"border\"\n			],\n			[\n				\"ma\",\n				\"marker	marker-offset: auto\"\n			],\n			[\n				\"p\",\n				\"padding\"\n			],\n			[\n				\"sp\",\n				\"splash\"\n			],\n			[\n				\"wio\",\n				\"width\"\n			],\n			[\n				\"lin\",\n				\"line-height\"\n			],\n			[\n				\"displ\",\n				\"display	display: inline\"\n			]\n		]\n	},\n	\"buffers\":\n	[\n		{\n			\"file\": \"header.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 1831,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"page.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 1627,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"contents\": \"// Place your settings in the file \\\"User/Preferences.sublime-settings\\\", which\\n// overrides the settings in here.\\n//\\n// Settings may also be placed in file type specific options files, for\\n// example, in Packages/Python/Python.sublime-settings for python files.\\n{\\n    // Sets the colors used within the text area\\n    \\\"color_scheme\\\": \\\"Packages/Color Scheme - Default/Monokai.tmTheme\\\",\\n\\n    // Note that the font_face and font_size are overridden in the platform\\n    // specific settings file, for example, \\\"Preferences (Linux).sublime-settings\\\".\\n    // Because of this, setting them here will have no effect: you must set them\\n    // in your User File Preferences.\\n    \\\"font_face\\\": \\\"\\\",\\n    \\\"font_size\\\": 10,\\n\\n    // Valid options are \\\"no_bold\\\", \\\"no_italic\\\", \\\"no_antialias\\\", \\\"gray_antialias\\\",\\n    // \\\"subpixel_antialias\\\", \\\"no_round\\\" (OS X only), \\\"gdi\\\" (Windows only) and\\n    // \\\"directwrite\\\" (Windows only)\\n    \\\"font_options\\\": [],\\n\\n    // Characters that are considered to separate words\\n    \\\"word_separators\\\": \\\"./\\\\\\\\()\\\\\\\"'-:,.;<>~!@#$%^&*|+=[]{}`~?\\\",\\n\\n    // Set to false to prevent line numbers being drawn in the gutter\\n    \\\"line_numbers\\\": true,\\n\\n    // Set to false to hide the gutter altogether\\n    \\\"gutter\\\": true,\\n\\n    // Spacing between the gutter and the text\\n    \\\"margin\\\": 4,\\n\\n    // Fold buttons are the triangles shown in the gutter to fold regions of text\\n    \\\"fold_buttons\\\": true,\\n\\n    // Hides the fold buttons unless the mouse is over the gutter\\n    \\\"fade_fold_buttons\\\": true,\\n\\n    // Columns in which to display vertical rulers\\n    \\\"rulers\\\": [],\\n\\n    // Set to true to turn spell checking on by default\\n    \\\"spell_check\\\": false,\\n\\n    // The number of spaces a tab is considered equal to\\n    \\\"tab_size\\\": 4,\\n\\n    // Set to true to insert spaces when tab is pressed\\n    \\\"translate_tabs_to_spaces\\\": false,\\n\\n    // If translate_tabs_to_spaces is true, use_tab_stops will make tab and\\n    // backspace insert/delete up to the next tabstop\\n    \\\"use_tab_stops\\\": true,\\n\\n    // Set to false to disable detection of tabs vs. spaces on load\\n    \\\"detect_indentation\\\": true,\\n\\n    // Calculates indentation automatically when pressing enter\\n    \\\"auto_indent\\\": true,\\n\\n    // Makes auto indent a little smarter, e.g., by indenting the next line\\n    // after an if statement in C. Requires auto_indent to be enabled.\\n    \\\"smart_indent\\\": true,\\n\\n    // Adds whitespace up to the first open bracket when indenting. Requires\\n    // auto_indent to be enabled.\\n    \\\"indent_to_bracket\\\": false,\\n\\n    // Trims white space added by auto_indent when moving the caret off the\\n    // line.\\n    \\\"trim_automatic_white_space\\\": true,\\n\\n    // Disables horizontal scrolling if enabled.\\n    // May be set to true, false, or \\\"auto\\\", where it will be disabled for\\n    // source code, and otherwise enabled.\\n    \\\"word_wrap\\\": \\\"auto\\\",\\n\\n    // Set to a value other than 0 to force wrapping at that column rather than the\\n    // window width\\n    \\\"wrap_width\\\": 0,\\n\\n    // Set to false to prevent word wrapped lines from being indented to the same\\n    // level\\n    \\\"indent_subsequent_lines\\\": true,\\n\\n    // Draws text centered in the window rather than left aligned\\n    \\\"draw_centered\\\": false,\\n\\n    // Controls auto pairing of quotes, brackets etc\\n    \\\"auto_match_enabled\\\": true,\\n\\n    // Word list to use for spell checking\\n    \\\"dictionary\\\": \\\"Packages/Language - English/en_US.dic\\\",\\n\\n    // Sets which scopes are checked for spelling errors\\n    \\\"spelling_selector\\\": \\\"markup.raw, source string.quoted - punctuation - meta.preprocessor.c.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)\\\",\\n\\n    // Set to true to draw a border around the visible rectangle on the minimap.\\n    // The color of the border will be determined by the \\\"minimapBorder\\\" key in\\n    // the color scheme\\n    \\\"draw_minimap_border\\\": false,\\n\\n    // Always visualise the viewport on the minimap, as opposed to only\\n    // showing it on mouse over\\n    \\\"always_show_minimap_viewport\\\": false,\\n\\n    // If enabled, will highlight any line with a caret\\n    \\\"highlight_line\\\": false,\\n\\n    // Valid values are \\\"smooth\\\", \\\"phase\\\", \\\"blink\\\" and \\\"solid\\\".\\n    \\\"caret_style\\\": \\\"smooth\\\",\\n\\n    // These settings control the size of the caret\\n    \\\"caret_extra_top\\\": 0,\\n    \\\"caret_extra_bottom\\\": 0,\\n    \\\"caret_extra_width\\\": 0,\\n\\n    // Set to false to disable underlining the brackets surrounding the caret\\n    \\\"match_brackets\\\": true,\\n\\n    // Set to false if you'd rather only highlight the brackets when the caret is\\n    // next to one\\n    \\\"match_brackets_content\\\": true,\\n\\n    // Set to false to not highlight square brackets. This only takes effect if\\n    // match_brackets is true\\n    \\\"match_brackets_square\\\": true,\\n\\n    // Set to false to not highlight curly brackets. This only takes effect if\\n    // match_brackets is true\\n    \\\"match_brackets_braces\\\": true,\\n\\n    // Set to false to not highlight angle brackets. This only takes effect if\\n    // match_brackets is true\\n    \\\"match_brackets_angle\\\": false,\\n\\n    // Enable visualization of the matching tag in HTML and XML\\n    \\\"match_tags\\\": true,\\n\\n    // Highlights other occurrences of the currently selected text\\n    \\\"match_selection\\\": true,\\n\\n    // Additional spacing at the top of each line, in pixels\\n    \\\"line_padding_top\\\": 0,\\n\\n    // Additional spacing at the bottom of each line, in pixels\\n    \\\"line_padding_bottom\\\": 0,\\n\\n    // Set to false to disable scrolling past the end of the buffer.\\n    // On OS X, this value is overridden in the platform specific settings, so\\n    // you'll need to place this line in your user settings to override it.\\n    \\\"scroll_past_end\\\": true,\\n\\n    // This controls what happens when pressing up or down when on the first\\n    // or last line.\\n    // On OS X, this value is overridden in the platform specific settings, so\\n    // you'll need to place this line in your user settings to override it.\\n    \\\"move_to_limit_on_up_down\\\": false,\\n\\n    // Set to \\\"none\\\" to turn off drawing white space, \\\"selection\\\" to draw only the\\n    // white space within the selection, and \\\"all\\\" to draw all white space\\n    \\\"draw_white_space\\\": \\\"selection\\\",\\n\\n    // Set to false to turn off the indentation guides.\\n    // The color and width of the indent guides may be customized by editing\\n    // the corresponding .tmTheme file, and specifying the colors \\\"guide\\\",\\n    // \\\"activeGuide\\\" and \\\"stackGuide\\\"\\n    \\\"draw_indent_guides\\\": true,\\n\\n    // Controls how the indent guides are drawn, valid options are\\n    // \\\"draw_normal\\\" and \\\"draw_active\\\". draw_active will draw the indent\\n    // guides containing the caret in a different color.\\n    \\\"indent_guide_options\\\": [\\\"draw_normal\\\"],\\n\\n    // Set to true to removing trailing white space on save\\n    \\\"trim_trailing_white_space_on_save\\\": false,\\n\\n    // Set to true to ensure the last line of the file ends in a newline\\n    // character when saving\\n    \\\"ensure_newline_at_eof_on_save\\\": false,\\n\\n    // Set to true to automatically save files when switching to a different file\\n    // or application\\n    \\\"save_on_focus_lost\\\": false,\\n\\n    // Save via writing to an alternate file, and then renaming it over the\\n    // original file.\\n    \\\"atomic_save\\\": false,\\n\\n    // The encoding to use when the encoding can't be determined automatically.\\n    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.\\n    \\\"fallback_encoding\\\": \\\"Western (Windows 1252)\\\",\\n\\n    // Encoding used when saving new files, and files opened with an undefined\\n    // encoding (e.g., plain ascii files). If a file is opened with a specific\\n    // encoding (either detected or given explicitly), this setting will be\\n    // ignored, and the file will be saved with the encoding it was opened\\n    // with.\\n    \\\"default_encoding\\\": \\\"UTF-8\\\",\\n\\n    // Files containing null bytes are opened as hexadecimal by default\\n    \\\"enable_hexadecimal_encoding\\\": true,\\n\\n    // Determines what character(s) are used to terminate each line in new files.\\n    // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and\\n    // 'unix' (LF only).\\n    \\\"default_line_ending\\\": \\\"system\\\",\\n\\n    // When enabled, pressing tab will insert the best matching completion.\\n    // When disabled, tab will only trigger snippets or insert a tab.\\n    // Shift+tab can be used to insert an explicit tab when tab_completion is\\n    // enabled.\\n    \\\"tab_completion\\\": true,\\n\\n    // Enable auto complete to be triggered automatically when typing.\\n    \\\"auto_complete\\\": true,\\n\\n    // The maximum file size where auto complete will be automatically triggered.\\n    \\\"auto_complete_size_limit\\\": 4194304,\\n\\n    // The delay, in ms, before the auto complete window is shown after typing\\n    \\\"auto_complete_delay\\\": 50,\\n\\n    // Controls what scopes auto complete will be triggered in\\n    \\\"auto_complete_selector\\\": \\\"source - comment, meta.tag - punctuation.definition.tag.begin\\\",\\n\\n    // Additional situations to trigger auto complete\\n    \\\"auto_complete_triggers\\\": [ {\\\"selector\\\": \\\"text.html\\\", \\\"characters\\\": \\\"<\\\"} ],\\n\\n    // By default, auto complete will commit the current completion on enter.\\n    // This setting can be used to make it complete on tab instead.\\n    // Completing on tab is generally a superior option, as it removes\\n    // ambiguity between committing the completion and inserting a newline.\\n    \\\"auto_complete_commit_on_tab\\\": false,\\n\\n    // Controls if auto complete is shown when snippet fields are active.\\n    // Only relevant if auto_complete_commit_on_tab is true.\\n    \\\"auto_complete_with_fields\\\": false,\\n\\n    // Controls what happens when pressing the up key while the first item in\\n    // the auto complete window is selected: if false, the window is hidden,\\n    // otherwise the last item in the window is selected. Likewise for the\\n    // down key when the last item is selected.\\n    \\\"auto_complete_cycle\\\": false,\\n\\n    // Automatically close HTML and XML tags when </ is entered.\\n    \\\"auto_close_tags\\\": true,\\n\\n    // By default, shift+tab will only unindent if the selection spans\\n    // multiple lines. When pressing shift+tab at other times, it'll insert a\\n    // tab character - this allows tabs to be inserted when tab_completion is\\n    // enabled. Set this to true to make shift+tab always unindent, instead of\\n    // inserting tabs.\\n    \\\"shift_tab_unindent\\\": false,\\n\\n    // If true, the copy and cut commands will operate on the current line\\n    // when the selection is empty, rather than doing nothing.\\n    \\\"copy_with_empty_selection\\\": true,\\n\\n    // If true, the selected text will be copied into the find panel when it's\\n    // shown.\\n    // On OS X, this value is overridden in the platform specific settings, so\\n    // you'll need to place this line in your user settings to override it.\\n    \\\"find_selected_text\\\": true,\\n\\n    // When auto_find_in_selection is enabled, the \\\"Find in Selection\\\" flag\\n    // will be enabled automatically when multiple lines of text are selected\\n    \\\"auto_find_in_selection\\\": false,\\n\\n    // When drag_text is enabled, clicking on selected text will begin a\\n    // drag-drop operation. This is not currently implemented under Linux.\\n    \\\"drag_text\\\": true,\\n\\n    //\\n    // User Interface Settings\\n    //\\n\\n    // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)\\n    \\\"theme\\\": \\\"Default.sublime-theme\\\",\\n\\n    // Set to 0 to disable smooth scrolling. Set to a value between 0 and 1 to\\n    // scroll slower, or set to larger than 1 to scroll faster\\n    \\\"scroll_speed\\\": 1.0,\\n\\n    // Controls side bar animation when expanding or collapsing folders\\n    \\\"tree_animation_enabled\\\": true,\\n\\n    // Controls animation throughout the application\\n    \\\"animation_enabled\\\": true,\\n\\n    // Makes tabs with modified files more visible\\n    \\\"highlight_modified_tabs\\\": false,\\n\\n    \\\"show_tab_close_buttons\\\": true,\\n\\n    // Show folders in the side bar in bold\\n    \\\"bold_folder_labels\\\": false,\\n\\n    // OS X only: Set to true to disable Lion style full screen support.\\n    // Sublime Text must be restarted for this to take effect.\\n    \\\"use_simple_full_screen\\\": false,\\n\\n    // OS X only. Valid values are true, false, and \\\"auto\\\". Auto will enable\\n    // the setting when running on a screen 2560 pixels or wider (i.e., a\\n    // Retina display). When this setting is enabled, OpenGL is used to\\n    // accelerate drawing. Sublime Text must be restarted for changes to take\\n    // effect.\\n    \\\"gpu_window_buffer\\\": \\\"auto\\\",\\n\\n    // Valid values are \\\"system\\\", \\\"enabled\\\" and \\\"disabled\\\"\\n    \\\"overlay_scroll_bars\\\": \\\"system\\\",\\n\\n    // Allows tabs to scroll left and right, instead of simply shrinking\\n    \\\"enable_tab_scrolling\\\": true,\\n\\n    // Display file encoding in the status bar\\n    \\\"show_encoding\\\": false,\\n\\n    // Display line endings in the status bar\\n    \\\"show_line_endings\\\": false,\\n\\n    //\\n    // Application Behavior Settings\\n    //\\n\\n    // Exiting the application with hot_exit enabled will cause it to close\\n    // immediately without prompting. Unsaved modifications and open files will\\n    // be preserved and restored when next starting.\\n    //\\n    // Closing a window with an associated project will also close the window\\n    // without prompting, preserving unsaved changes in the workspace file\\n    // alongside the project.\\n    \\\"hot_exit\\\": true,\\n\\n    // remember_full_screen will allow Sublime Text to start in full screen\\n    // mode if it was exited in full screen mode. When set to false, Sublime\\n    // Text will never start in full screen mode.\\n    \\\"remember_full_screen\\\": false,\\n\\n    // Always prompt before reloading a file, even if the file hasn't been\\n    // modified. The default behavior is to automatically reload a file if it\\n    // hasn't been edited. If a file has unsaved changes, a prompt will always\\n    // be shown.\\n    \\\"always_prompt_for_file_reload\\\": false,\\n\\n    // OS X only: When files are opened from finder, or by dragging onto the\\n    // dock icon, this controls if a new window is created or not.\\n    \\\"open_files_in_new_window\\\": true,\\n\\n    // OS X only: This controls if an empty window is created at startup or not.\\n    \\\"create_window_at_startup\\\": true,\\n\\n    // Set to true to close windows as soon as the last file is closed, unless\\n    // there's a folder open within the window.\\n    // On OS X, this value is overridden in the platform specific settings, so\\n    // you'll need to place this line in your user settings to override it.\\n    \\\"close_windows_when_empty\\\": false,\\n\\n    // Show the full path to files in the title bar.\\n    // On OS X, this value is overridden in the platform specific settings, so\\n    // you'll need to place this line in your user settings to override it.\\n    \\\"show_full_path\\\": true,\\n\\n    // Shows the Build Results panel when building. If set to false, the Build\\n    // Results can be shown via the Tools/Build Results menu.\\n    \\\"show_panel_on_build\\\": true,\\n\\n    // Preview file contents when clicking on a file in the side bar. Double\\n    // clicking or editing the preview will open the file and assign it a tab.\\n    \\\"preview_on_click\\\": true,\\n\\n    // folder_exclude_patterns and file_exclude_patterns control which files\\n    // are listed in folders on the side bar. These can also be set on a per-\\n    // project basis.\\n    \\\"folder_exclude_patterns\\\": [\\\".svn\\\", \\\".git\\\", \\\".hg\\\", \\\"CVS\\\"],\\n    \\\"file_exclude_patterns\\\": [\\\"*.pyc\\\", \\\"*.pyo\\\", \\\"*.exe\\\", \\\"*.dll\\\", \\\"*.obj\\\",\\\"*.o\\\", \\\"*.a\\\", \\\"*.lib\\\", \\\"*.so\\\", \\\"*.dylib\\\", \\\"*.ncb\\\", \\\"*.sdf\\\", \\\"*.suo\\\", \\\"*.pdb\\\", \\\"*.idb\\\", \\\".DS_Store\\\", \\\"*.class\\\", \\\"*.psd\\\", \\\"*.db\\\", \\\"*.sublime-workspace\\\"],\\n    // These files will still show up in the side bar, but won't be included in\\n    // Goto Anything or Find in Files\\n    \\\"binary_file_patterns\\\": [\\\"*.jpg\\\", \\\"*.jpeg\\\", \\\"*.png\\\", \\\"*.gif\\\", \\\"*.ttf\\\", \\\"*.tga\\\", \\\"*.dds\\\", \\\"*.ico\\\", \\\"*.eot\\\", \\\"*.pdf\\\", \\\"*.swf\\\", \\\"*.jar\\\", \\\"*.zip\\\"],\\n\\n    // File indexing parses all files in the side bar, and builds an index of\\n    // their symbols. This is required for Goto Definition to work.\\n    \\\"index_files\\\": true,\\n\\n    // Set the number threads to use for indexing. A value of 0 will make\\n    // Sublime Text guess based on the number of cores. Use the index_files\\n    // setting to disable all workers.\\n    \\\"index_workers\\\": 0,\\n\\n    // index_exclude_patterns indicate which files won't be indexed.\\n    \\\"index_exclude_patterns\\\": [\\\"*.log\\\"],\\n\\n    // When enabled, anonymised usage data is sent back, assisting Sublime HQ\\n    // in making informed decisions about improving Sublime Text. File names\\n    // and file contents are never included, but data such as computer\\n    // specifications, startup time, installed packages, and edited file types\\n    // are. When disabled, telemetry is neither recorded or sent.\\n    // A setting of auto will enable telemetry in dev builds, and disable\\n    // telemetry in regular builds.\\n    \\\"enable_telemetry\\\": \\\"auto\\\",\\n\\n    // List any packages to ignore here. When removing entries from this list,\\n    // a restart may be required if the package contains plugins.\\n    \\\"ignored_packages\\\": [\\\"Vintage\\\"]\\n}\\n\",\n			\"file\": \"/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings\",\n			\"file_size\": -1,\n			\"file_write_time\": -1,\n			\"settings\":\n			{\n				\"buffer_size\": 16856,\n				\"line_ending\": \"Windows\",\n				\"read_only\": true,\n				\"scratch\": true\n			}\n		},\n		{\n			\"file\": \"/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings\",\n			\"settings\":\n			{\n				\"buffer_size\": 1241,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"rockerbrosmeat.sublime-workspace\",\n			\"settings\":\n			{\n				\"buffer_size\": 35756,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"footer.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 977,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"sidebar.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 396,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"style.css\",\n			\"settings\":\n			{\n				\"buffer_size\": 16665,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"functions.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 5770,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"front-page.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 1733,\n				\"line_ending\": \"Unix\"\n			}\n		},\n		{\n			\"file\": \"simple-image-widget/widget.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 884,\n				\"line_ending\": \"Windows\"\n			}\n		},\n		{\n			\"file\": \"css/styles.css\",\n			\"settings\":\n			{\n				\"buffer_size\": 9654,\n				\"line_ending\": \"Windows\"\n			}\n		},\n		{\n			\"file\": \"template-parts/content-page.php\",\n			\"settings\":\n			{\n				\"buffer_size\": 943,\n				\"line_ending\": \"Unix\"\n			}\n		}\n	],\n	\"build_system\": \"\",\n	\"build_system_choices\":\n	[\n	],\n	\"build_varint\": \"\",\n	\"command_palette\":\n	{\n		\"height\": 400.0,\n		\"last_filter\": \"\",\n		\"selected_items\":\n		[\n			[\n				\"file\",\n				\"File: Rename\"\n			],\n			[\n				\"instal\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"list\",\n				\"Package Control: List Packages\"\n			],\n			[\n				\"ints\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"DIRE\",\n				\"dired\"\n			],\n			[\n				\"di\",\n				\"dired\"\n			],\n			[\n				\"dire\",\n				\"dired\"\n			],\n			[\n				\"lis\",\n				\"Package Control: List Packages\"\n			],\n			[\n				\"insta\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"inst\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"rem\",\n				\"Package Control: Remove Package\"\n			],\n			[\n				\"browser\",\n				\"Browser Integration: Settings (Default)\"\n			],\n			[\n				\"remov\",\n				\"Package Control: Remove Package\"\n			],\n			[\n				\"remo\",\n				\"Package Control: Remove Package\"\n			],\n			[\n				\"instl\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"in\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"dis\",\n				\"Package Control: Disable Package\"\n			],\n			[\n				\"pack\",\n				\"Package Control: List Packages\"\n			],\n			[\n				\"lore\",\n				\"Snippet: Lorem ipsum\"\n			],\n			[\n				\"enabl\",\n				\"Package Control: Enable Package\"\n			],\n			[\n				\"c\",\n				\"Package Control: Add Repository\"\n			],\n			[\n				\"SAV\",\n				\"Project: Save As\"\n			],\n			[\n				\"save\",\n				\"Project: Save As\"\n			],\n			[\n				\"add\",\n				\"Project: Add Folder\"\n			],\n			[\n				\"html\",\n				\"HTMLPrettify: Prettify\"\n			],\n			[\n				\"gi\",\n				\"Package Control: Add Repository\"\n			],\n			[\n				\"ins\",\n				\"Package Control: Install Package\"\n			],\n			[\n				\"fe\",\n				\"Fetch\"\n			],\n			[\n				\"htm\",\n				\"HTMLPrettify: Prettify\"\n			],\n			[\n				\"remove\",\n				\"Package Control: Remove Package\"\n			],\n			[\n				\"packa\",\n				\"Package Control: Disable Package\"\n			],\n			[\n				\"\",\n				\"About\"\n			],\n			[\n				\"sni\",\n				\"Snippet: htmlinclude\"\n			],\n			[\n				\"rremo\",\n				\"Package Control: Remove Package\"\n			],\n			[\n				\"min\",\n				\"View: Toggle Minimap\"\n			],\n			[\n				\"snipp\",\n				\"Snippet: htmlcomment\"\n			],\n			[\n				\"git\",\n				\"Package Control: Add Repository\"\n			],\n			[\n				\"repsitor\",\n				\"Package Control: Add Repository\"\n			],\n			[\n				\"pa\",\n				\"Package Control: List Packages\"\n			],\n			[\n				\"Fe\",\n				\"Fetch: Manage remote files\"\n			],\n			[\n				\"F\",\n				\"Fetch\"\n			],\n			[\n				\"pak\",\n				\"Package Control: Discover Packages\"\n			],\n			[\n				\"fet\",\n				\"Fetch: Manage remote files\"\n			],\n			[\n				\"style\",\n				\"Set Syntax: Literate Haskell\"\n			],\n			[\n				\"pac\",\n				\"Preferences: Browse Packages\"\n			]\n		],\n		\"width\": 520.0\n	},\n	\"console\":\n	{\n		\"height\": 435.0,\n		\"history\":\n		[\n			\"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\",\n			\"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())\"\n		]\n	},\n	\"distraction_free\":\n	{\n		\"menu_visible\": false,\n		\"show_minimap\": false,\n		\"show_open_files\": false,\n		\"show_tabs\": true,\n		\"side_bar_visible\": true,\n		\"status_bar_visible\": false\n	},\n	\"expanded_folders\":\n	[\n		\"/E/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat\"\n	],\n	\"file_history\":\n	[\n		\"/C/Users/DHALI-MM/Dropbox/Sublime/User/Monokai (SL).tmTheme\",\n		\"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/single.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/page.php\",\n		\"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/style.css\",\n		\"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/css/styles.css\",\n		\"/C/repositories/resources/code/wordpress-default-folders/header.php\",\n		\"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/css/simplegrid.css\",\n		\"/C/repositories/resources/code/wordpress-default-folders/functions.php\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/css/styles.css\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/page-recipes.php\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/css/menu.css\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/newsletter-code.htm\",\n		\"/C/repositories/resources/code/php/php-loop.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/front-page.php\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/front-page.php\",\n		\"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/css/menu.css\",\n		\"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/footer.php\",\n		\"/C/repositories/websites-wordpress/notaryassist.com/wp-content/themes/notaryassist/archive-testimonial.php\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/functions.php\",\n		\"/C/repositories/websites/ViejoBaseball.org/css/styles.css\",\n		\"/C/repositories/websites/ViejoBaseball.org/index.asp\",\n		\"/C/repositories/websites-wordpress/cdaia.org/wp-config.php\",\n		\"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/css/styles.css\",\n		\"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/header.php\",\n		\"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-config.php\",\n		\"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/functions.php\",\n		\"/C/Users/Mario/Downloads/tamalada-wordpress.txt\",\n		\"/C/Users/Mario/Downloads/tamalada-localhost.sql\",\n		\"/C/repositories/resources/code/rename-tables.txt\",\n		\"/C/Users/Mario/Downloads/wp-config.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-config.php\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/header.php\",\n		\"/C/repositories/websites-wordpress/durhamranch.com/wp-config.php\",\n		\"/C/Users/Mario/Downloads/test.csv\",\n		\"/C/Users/Mario/Downloads/test-nevadatitle-users-export-short.csv\",\n		\"/C/Users/Mario/Downloads/test-nevadatitle-users-export-short.csv - test-nevadatitle-users-export-short.csv.csv\",\n		\"/C/Users/Mario/Downloads/nevadatitle-users-export-all.csv\",\n		\"/C/Users/Mario/Downloads/wp-members-user-export-10-03-15.csv\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/functions.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/inc/simplegrid.php\",\n		\"/C/repositories/websites/EliteKidsUsa.com/dance.asp\",\n		\"/C/repositories/websites/EliteKidsUsa.com/index.asp\",\n		\"/C/repositories/websites/EliteKidsUsa.com/aerial_arts.asp\",\n		\"/C/repositories/websites/EliteKidsUsa.com/camp.asp\",\n		\"/C/repositories/websites/EliteKidsUsa.com/open_gym.asp\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/css/styles.css\",\n		\"/C/Users/Mario/Dropbox/tamalada.com/order-form.txt\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/header.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/style.css\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/style.css\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/css/styles.css\",\n		\"/C/repositories/websites-wordpress/cdaia.org/wp-content/themes/cdaia/sidebar.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/header.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/css/styles.css\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/template-parts/content.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/template-parts/content-search.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/search.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/index.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/archive-clients.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/template-parts/content-clients.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/page-product.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/404.php\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/rotate.htm\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/style.css\",\n		\"/C/repositories/resources/code/php/php-not-frontpage.php\",\n		\"/C/repositories/websites/CalElite.com/index.asp\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/footer.php\",\n		\"/C/repositories/websites-wordpress/ffpnv.com/wp-content/themes/flocchini/functions.php\",\n		\"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-config.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/sidebar.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/page.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/simple-image-widget/widget.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/simple-image-widget/simple-image-widget.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/functions.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/footer.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/header.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/index.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/archive.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/search.php\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/css/simplegrid.css\",\n		\"/C/repositories/websites-wordpress/devsite/wp-content/themes/twentyfifteen/page-sample-page.php\",\n		\"/C/repositories/websites-wordpress/fiveby5-us.com/wp-content/themes/fiveby5/header.php\",\n		\"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/css/styles.css\",\n		\"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/css/menu.css\",\n		\"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/style.css\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/index.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/404.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/front-page.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/template-parts/content-none.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/single.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/css/menu.css\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/archive.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/search.php\",\n		\"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/comments.php\",\n		\"/C/repositories/resources/code/php/php-post-thumbnail-url.php\",\n		\"/C/wamp/bin/apache/apache2.4.9/bin/php.ini\",\n		\"/C/wamp/bin/php/php5.5.12/php.ini\",\n		\"/C/repositories/websites-wordpress/cdaia.org/wp-content/themes/cdaia/front-page.php\",\n		\"/C/repositories/websites-wordpress/sierrameat.com/wp-content/themes/sierrameat/css/styles.css\",\n		\"/C/wamp/wampmanager.ini\",\n		\"/C/wamp/wampmanager.tpl\",\n		\"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf\",\n		\"/C/wamp/bin/apache/apache2.4.2/bin/php.ini\",\n		\"/C/wamp/bin/php/php5.4.3/ext/php_curl.dll\",\n		\"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/functions.php\",\n		\"/C/Users/Mario/Downloads/php-5.4.3-Win32-VC9-x64/ext/php_curl.dll\",\n		\"/C/repositories/websites-wordpress/cdaia.org/wp-content/themes/cdaia/header.php\",\n		\"/C/Users/Mario/Dropbox/docs/dell-shipped.htm\",\n		\"/C/Users/Mario/Dropbox/docs/dell-order.htm\",\n		\"/C/repositories/websites/CalElite.com/theater.asp\",\n		\"/C/repositories/websites/CalElite.com/camp.asp\",\n		\"/C/repositories/websites-wordpress/coastconcierge.com/wp-content/themes/coastconcierge/header.php\",\n		\"/C/repositories/websites/EliteKidsUsa.com/preschool.asp\",\n		\"/C/repositories/assets/EmpTech.com/_comps/index.asp\",\n		\"/C/repositories/assets/EmpTech.com/_comps/products-page.asp\",\n		\"/C/repositories/websites-wordpress/lacpca.com/wp-content/themes/lacpca/content-single.php\",\n		\"/C/repositories/websites-wordpress/lacpca.com/wp-content/themes/lacpca/single.php\",\n		\"/C/Windows/System32/drivers/etc/hosts\",\n		\"/C/repositories/assets/DurhamRanch.com/_comps/index.asp\",\n		\"/C/repositories/websites-wordpress/notaryassist.com/wp-content/themes/notaryassist/header.php\",\n		\"/C/repositories/websites-wordpress/bafl.com/wp-content/themes/bafl/header.php\",\n		\"/C/repositories/websites-wordpress/lachiefs.com/wp-content/themes/lacpca/header.php\",\n		\"/C/repositories/websites-wordpress/lacpca.com/wp-content/themes/lacpca/header.php\",\n		\"/C/repositories/websites-wordpress/sdrtc.com/wp-content/themes/sdrtc/header.php\",\n		\"/C/repositories/websites-wordpress/anchormaninc.com/wp-content/themes/anchormaninc/header.php\",\n		\"/C/repositories/websites-wordpress/tamrasellsoc.com/wp-content/themes/agentpress/functions.php\",\n		\"/C/repositories/websites-wordpress/tamrasellsoc.com/wp-content/themes/genesis/lib/structure/header.php\",\n		\"/C/repositories/websites-wordpress/tamrasellsoc.com/wp-content/themes/genesis/header.php\"\n	],\n	\"find\":\n	{\n		\"height\": 42.0\n	},\n	\"find_in_files\":\n	{\n		\"height\": 347.0,\n		\"where_history\":\n		[\n			\"<project>\",\n			\"W:\\\\StJosephRehabCenter.com\",\n			\"W:\\\\MontebelloCareCenter.com\",\n			\"C:\\\\Projects\\\\rwzant\\\\trunk\\\\Website\",\n			\"C:\\\\Projects\\\\case-jacket\\\\trunk\\\\Website\",\n			\"W:\\\\WestCoastVinylWindows.com\",\n			\"W:\\\\trainingjacket-asp\",\n			\"<project>\",\n			\"W:\\\\BlowMeAwayLa.com\",\n			\"W:\\\\SkilledHealthCare.com_new\",\n			\"W:\\\\QualityWoodCreationsOC.com\",\n			\"W:\\\\LiveOakNursingCenter.com\",\n			\"C:\\\\Projects\\\\goWildRiver\\\\trunk\\\\Website\",\n			\"W:\\\\HallettsvilleRehabandNursingCenter.com\",\n			\"C:\\\\Projects\\\\goWildRiver\\\\trunk\",\n			\"W:\\\\ArizonaLegalDocs.com\",\n			\"W:\\\\\",\n			\"W:\\\\MontanaPremierCare.com\",\n			\"W:\\\\SkiesHealthcare.com\",\n			\"W:\\\\SharonCarela.com\",\n			\"W:\\\\HancockParkRehab.com\"\n		]\n	},\n	\"find_state\":\n	{\n		\"case_sensitive\": false,\n		\"find_history\":\n		[\n			\"featured-item \",\n			\"body\",\n			\"html\",\n			\"legend\",\n			\"table\",\n			\"textare\",\n			\"img\",\n			\"font-fa\",\n			\".grid\",\n			\"grid\",\n			\"cover\",\n			\"body\",\n			\"html\",\n			\"body\",\n			\"h6\",\n			\"strong\",\n			\"<li style=\\\"font-weight: 400;\\\"><span style=\\\"font-weight: 400;\\\">\",\n			\"caption\",\n			\"no\",\n			\" \",\n			\"<p><\",\n			\"0\",\n			\"0.5\",\n			\"50%\",\n			\"rem\",\n			\"site-feature\",\n			\".feature\",\n			\".feature \",\n			\", \",\n			\"W\",\n			\"w\",\n			\"W\",\n			\"wp_\",\n			\"wp_a123456_\",\n			\"0\",\n			\",\",\n			\"lightbox\",\n			\"Download Flyer\",\n			\"active\",\n			\"halloween-night\",\n			\" <legend>Sign up for Parent's Night Out</legend>\",\n			\"halloween-night\",\n			\"images/camp/2015/halloween-lg.jpg\\\"\",\n			\"fieldset\",\n			\"     <p align=\\\"center\\\"><a href=\\\"https://www.iclassprov2.com/icpv2/parentportal/elitekids/camps?camptype=20\\\" class=\\\"btn btn-large\\\">Sign Up</a></p>\",\n			\"btn\",\n			\"Register &rarr;\",\n			\"div\",\n			\"camp-wrap well\",\n			\"div\",\n			\"<div class=\\\"camp-btn\\\">\",\n			\"%;\\n\",\n			\"widget-tit\",\n			\";\\n\",\n			\"href=\\\"\\\"\",\n			\"  \",\n			\"   \",\n			\" \",\n			\"90\",\n			\",\",\n			\"92\",\n			\"Zip Code\",\n			\"714\",\n			\"Garden Grove\",\n			\"714\",\n			\"Fullerton	\",\n			\"Yorba Linda\",\n			\"714\",\n			\"657\",\n			\"Tustin\",\n			\"714\",\n			\"657\",\n			\"714\",\n			\"Santa Ana\",\n			\"714\",\n			\"657\",\n			\"Orange\",\n			\"949\",\n			\"Newport Beach\",\n			\"949\",\n			\"Laguna Hills\",\n			\"949\",\n			\"Irvine\",\n			\"714\",\n			\"657\",\n			\"Huntington Beach\",\n			\"714\",\n			\"\\nBrea\",\n			\"657\",\n			\"714\",\n			\"Anaheim\",\n			\"<tr>\\n				<tr>\",\n			\"		<tr>\\n			<tr>\",\n			\"</tr>\",\n			\"<tr></tr>\",\n			\"<td></td>\",\n			\"</td>\",\n			\"City of \",\n			\"2px\",\n			\"font-size\",\n			\"px;\",\n			\"		font-size: 36px;\",\n			\"5\",\n			\"script\",\n			\"site-\",\n			\"font-size\",\n			\"client-logo-item\",\n			\"Oct\",\n			\", \",\n			\"menu-to\",\n			\"font-size\",\n			\";\\n\",\n			\"font-size\",\n			\"Open\",\n			\"Wendy\",\n			\"form\",\n			\"a:\",\n			\"a:visite\",\n			\"main-navigation\",\n			\"static\",\n			\"max-wi\",\n			\"facebook\",\n			\"domainname.com\",\n			\"main-navigation\",\n			\"main-navigat\",\n			\"ul\",\n			\".info-link\",\n			\"info-link\"\n		],\n		\"highlight\": true,\n		\"in_selection\": false,\n		\"preserve_case\": false,\n		\"regex\": false,\n		\"replace_history\":\n		[\n			\"'sdrtc'\",\n			\"sdrtc-\",\n			\"sdrtc\",\n			\"sdrtc_\",\n			\"'sdrtc'\",\n			\"(949) 717-6569\",\n			\"<title>Cal Elite Kids - Gymnastics, Dance, Cheer, Tumbling located in Rancho Santa Margarita, California</title>\",\n			\"Cal Elite Kids\",\n			\"Live Oak Nursing and Rehabilitation Center\",\n			\"Live Oak Nursing Center\",\n			\"Hallettsville Rehabilitation and Nursing Center\",\n			\"<li>\",\n			\"Skies Healthcare and Rehabilitation Center\",\n			\"Sharon Care Center\",\n			\"<li>\",\n			\"\",\n			\"</a></li>\",\n			\"<li><a\",\n			\"</h2>\",\n			\"<h2>\",\n			\"\",\n			\"edd_\",\n			\"images/gallery/weddings/\",\n			\"weddings/wedd_\",\n			\"personal_events/events_\",\n			\"</li>\",\n			\"<li>\",\n			\"\",\n			\"</p>\",\n			\"\",\n			\"<p>\",\n			\"  \",\n			\"<hr />\",\n			\"\",\n			\"url(../images/gallery/\",\n			\"\",\n			\"<ul class=\\\"sponsors\\\">\",\n			\"</a></li>\",\n			\"<li><a \",\n			\"</ul><h2>\",\n			\"</h2> <ul>\",\n			\"\",\n			\"<h2>\",\n			\" \",\n			\"\",\n			\"<a href=\\\"\\\">Coral Coast Resorts</a>\",\n			\"coralcoast.jpg\",\n			\"\",\n			\"Hancock Park Rehabilitation Center\",\n			\"../images/menu/\\n&reg;\",\n			\"\\n&reg;\",\n			\"</li><li>\",\n			\"'\",\n			\"<li>\",\n			\"alt=\\\"\",\n			\"width=\\\"400\\\" height=\\\"200\\\"\",\n			\".png\",\n			\"images/feature/\",\n			\"<div class=\\\"slide\\\">\",\n			\"\",\n			\"<li><a href=\\\"Products.aspx?id=51\\\">\",\n			\"</a></li>\"\n		],\n		\"reverse\": false,\n		\"show_context\": true,\n		\"use_buffer2\": false,\n		\"whole_word\": false,\n		\"wrap\": true\n	},\n	\"groups\":\n	[\n		{\n			\"selected\": 4,\n			\"sheets\":\n			[\n				{\n					\"buffer\": 0,\n					\"file\": \"header.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 1831,\n						\"regions\":\n						{\n							\"TagLint\":\n							{\n								\"flags\": 2356,\n								\"icon\": \"dot\",\n								\"regions\":\n								[\n									[\n										687,\n										690\n									]\n								],\n								\"scope\": \"variable.parameter\"\n							}\n						},\n						\"selection\":\n						[\n							[\n								0,\n								0\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 593.0,\n						\"translation.y\": 390.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 9,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 1,\n					\"file\": \"page.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 1627,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								1506,\n								1506\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 4,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 2,\n					\"file\": \"/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 16856,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								16856,\n								16856\n							]\n						],\n						\"settings\":\n						{\n							\"syntax\": \"Packages/JavaScript/JSON.tmLanguage\"\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 3,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 3,\n					\"file\": \"/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 1241,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								201,\n								122\n							]\n						],\n						\"settings\":\n						{\n							\"syntax\": \"Packages/JavaScript/JSON.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 2,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 4,\n					\"file\": \"rockerbrosmeat.sublime-workspace\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 35756,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								24569,\n								24569\n							]\n						],\n						\"settings\":\n						{\n							\"syntax\": \"Packages/Text/Plain text.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 38364.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 1,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 5,\n					\"file\": \"footer.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 977,\n						\"regions\":\n						{\n							\"TagLint\":\n							{\n								\"flags\": 2356,\n								\"icon\": \"dot\",\n								\"regions\":\n								[\n									[\n										920,\n										923\n									]\n								],\n								\"scope\": \"variable.parameter\"\n							}\n						},\n						\"selection\":\n						[\n							[\n								0,\n								0\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 11,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 6,\n					\"file\": \"sidebar.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 396,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								0,\n								0\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\"\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 12,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 7,\n					\"file\": \"style.css\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 16665,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								0,\n								0\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"syntax\": \"Packages/CSS/CSS.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 12724.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 8,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 8,\n					\"file\": \"functions.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 5770,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								554,\n								554\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 5,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 9,\n					\"file\": \"front-page.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 1733,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								1109,\n								1109\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 858.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 6,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 10,\n					\"file\": \"simple-image-widget/widget.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 884,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								630,\n								630\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 78.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 7,\n					\"type\": \"text\"\n				}\n			]\n		},\n		{\n			\"selected\": 0,\n			\"sheets\":\n			[\n				{\n					\"buffer\": 11,\n					\"file\": \"css/styles.css\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 9654,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								5112,\n								5112\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"syntax\": \"Packages/CSS/CSS.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 7202.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 0,\n					\"type\": \"text\"\n				},\n				{\n					\"buffer\": 12,\n					\"file\": \"template-parts/content-page.php\",\n					\"semi_transient\": false,\n					\"settings\":\n					{\n						\"buffer_size\": 943,\n						\"regions\":\n						{\n						},\n						\"selection\":\n						[\n							[\n								260,\n								260\n							]\n						],\n						\"settings\":\n						{\n							\"color_scheme\": \"Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme\",\n							\"is_xml\": false,\n							\"syntax\": \"Packages/PHP/PHP.tmLanguage\",\n							\"translate_tabs_to_spaces\": false\n						},\n						\"translation.x\": 0.0,\n						\"translation.y\": 0.0,\n						\"zoom_level\": 1.0\n					},\n					\"stack_index\": 10,\n					\"type\": \"text\"\n				}\n			]\n		}\n	],\n	\"incremental_find\":\n	{\n		\"height\": 34.0\n	},\n	\"input\":\n	{\n		\"height\": 37.0\n	},\n	\"layout\":\n	{\n		\"cells\":\n		[\n			[\n				0,\n				0,\n				1,\n				1\n			],\n			[\n				1,\n				0,\n				2,\n				1\n			]\n		],\n		\"cols\":\n		[\n			0.0,\n			0.3,\n			1.0\n		],\n		\"rows\":\n		[\n			0.0,\n			1.0\n		]\n	},\n	\"menu_visible\": true,\n	\"output.csslint_result_view\":\n	{\n		\"height\": 148.0\n	},\n	\"output.exec\":\n	{\n		\"height\": 130.0\n	},\n	\"output.find_results\":\n	{\n		\"height\": 758.0\n	},\n	\"output.git\":\n	{\n		\"height\": 127.0\n	},\n	\"output.unsaved_changes\":\n	{\n		\"height\": 136.0\n	},\n	\"pinned_build_system\": \"\",\n	\"project\": \"rockerbrosmeat.sublime-project\",\n	\"replace\":\n	{\n		\"height\": 64.0\n	},\n	\"save_all_on_build\": true,\n	\"select_file\":\n	{\n		\"height\": 0.0,\n		\"last_filter\": \"\",\n		\"selected_items\":\n		[\n			[\n				\"ind\",\n				\"index.asp\"\n			],\n			[\n				\"cont\",\n				\"template-parts\\\\content.php\"\n			],\n			[\n				\"foot\",\n				\"footer.php\"\n			],\n			[\n				\"sytle\",\n				\"css\\\\styles.css\"\n			],\n			[\n				\"f\",\n				\"footer.php\"\n			],\n			[\n				\"he\",\n				\"header.php\"\n			],\n			[\n				\"foo\",\n				\"footer.php\"\n			],\n			[\n				\"sty\",\n				\"css\\\\styles.css\"\n			],\n			[\n				\"fun\",\n				\"functions.php\"\n			],\n			[\n				\"fu\",\n				\"functions.php\"\n			],\n			[\n				\"sid\",\n				\"sidebar.php\"\n			],\n			[\n				\"page\",\n				\"page.php\"\n			],\n			[\n				\"dew\",\n				\"Web\\\\Dewalt.aspx\"\n			],\n			[\n				\"work\",\n				\"Web\\\\WorkGear.aspx\"\n			],\n			[\n				\"men\",\n				\"Web\\\\css\\\\menu.css\"\n			],\n			[\n				\"cart\",\n				\"Web\\\\Cart.aspx\"\n			],\n			[\n				\"pro\",\n				\"Web\\\\Products.aspx\"\n			],\n			[\n				\"prod\",\n				\"Web\\\\ProductDetail.aspx\"\n			],\n			[\n				\"ret\",\n				\"Web\\\\Retailers.aspx\"\n			],\n			[\n				\"p\",\n				\"Web\\\\Products.aspx\"\n			],\n			[\n				\"squ\",\n				\"squareup.asp\"\n			],\n			[\n				\"swimm\",\n				\"CalElite.com\\\\swimming.asp\"\n			],\n			[\n				\"dance\",\n				\"CalElite.com/dance.asp\"\n			],\n			[\n				\"ssi\",\n				\"ssi-header.htm\"\n			],\n			[\n				\"man\",\n				\"UserControl/ManagerMenu.ascx\"\n			],\n			[\n				\"st\",\n				\"Styles/styles.css\"\n			],\n			[\n				\"style\",\n				\"Styles/styles.css\"\n			],\n			[\n				\"style/\",\n				\"Styles/960.css\"\n			],\n			[\n				\"stye\",\n				\"Styles/styles.css\"\n			],\n			[\n				\"login\",\n				\"Login.aspx\"\n			],\n			[\n				\"defa\",\n				\"Default.aspx\"\n			],\n			[\n				\"spe\",\n				\"Specials.aspx\"\n			],\n			[\n				\"site\",\n				\"Site.Master\"\n			],\n			[\n				\"customer\",\n				\"Customer-Service.aspx\"\n			],\n			[\n				\"mark\",\n				\"Marketing.aspx\"\n			],\n			[\n				\"what\",\n				\"Whats-New.aspx\"\n			],\n			[\n				\"custrer\",\n				\"Customer-Service.aspx\"\n			],\n			[\n				\"head\",\n				\"UserControl/Header.ascx\"\n			],\n			[\n				\"pla\",\n				\"Public/Plans.aspx\"\n			],\n			[\n				\"sig\",\n				\"Public/Signup.aspx\"\n			],\n			[\n				\"new\",\n				\"news.asp\"\n			],\n			[\n				\"adminemail\",\n				\"admin_editEmailLetter.asp\"\n			],\n			[\n				\"admin\",\n				\"admin_editEvents.asp\"\n			],\n			[\n				\"mynew\",\n				\"myNewsDetails.asp\"\n			],\n			[\n				\"email\",\n				\"emailMembers.asp\"\n			],\n			[\n				\"mytra\",\n				\"myTraining.asp\"\n			],\n			[\n				\"mypr\",\n				\"myProfile.asp\"\n			],\n			[\n				\"mymer\",\n				\"myMembersDetails.asp\"\n			],\n			[\n				\"event\",\n				\"eventRegistration.asp\"\n			],\n			[\n				\"eventre\",\n				\"eventRegistrationEdit.asp\"\n			],\n			[\n				\"mymemb\",\n				\"myMembers.asp\"\n			],\n			[\n				\"admindue\",\n				\"admin_duesReport.asp\"\n			],\n			[\n				\"addmyev\",\n				\"admin_addMyEvents.asp\"\n			],\n			[\n				\"myre\",\n				\"myResource.asp\"\n			],\n			[\n				\"myem\",\n				\"myMembers.asp\"\n			],\n			[\n				\"mys\",\n				\"myStatus.asp\"\n			],\n			[\n				\"myp\",\n				\"myProfile.asp\"\n			],\n			[\n				\"myt\",\n				\"myTraining.asp\"\n			],\n			[\n				\"mymemberes\",\n				\"myMembersResults.asp\"\n			],\n			[\n				\"dues\",\n				\"admin_duesReport.asp\"\n			],\n			[\n				\"editem\",\n				\"admin_editEmailLetter.asp\"\n			],\n			[\n				\"membercla\",\n				\"admin_MemberClassification.asp\"\n			],\n			[\n				\"memberty\",\n				\"admin_MemberType.asp\"\n			],\n			[\n				\"resour\",\n				\"admin_ResourceCategory.asp\"\n			],\n			[\n				\"news\",\n				\"admin_NewsType.asp\"\n			],\n			[\n				\"addmy\",\n				\"admin_addMyEvents.asp\"\n			],\n			[\n				\"addprof\",\n				\"admin_addProfile.asp\"\n			],\n			[\n				\"applic\",\n				\"admin_PendingApplicants.asp\"\n			],\n			[\n				\"mypro\",\n				\"myProfile.asp\"\n			],\n			[\n				\"logi\",\n				\"login.asp\"\n			],\n			[\n				\"una\",\n				\"unavailable.asp\"\n			],\n			[\n				\"report\",\n				\"report_Event.asp\"\n			],\n			[\n				\"myv\",\n				\"myVoting.asp\"\n			],\n			[\n				\"mytrainin\",\n				\"myTrainingPrint.asp\"\n			],\n			[\n				\"das\",\n				\"dashboard.asp\"\n			],\n			[\n				\"styl\",\n				\"WebsiteDefaultFolders/css/styles.css\"\n			],\n			[\n				\"in\",\n				\"CoastConcierge.com/index.asp\"\n			],\n			[\n				\"res\",\n				\"css/reset.css\"\n			],\n			[\n				\"list\",\n				\"ssi_slideshow.htm\"\n			]\n		],\n		\"width\": 0.0\n	},\n	\"select_project\":\n	{\n		\"height\": 500.0,\n		\"last_filter\": \"\",\n		\"selected_items\":\n		[\n			[\n				\"\",\n				\"C:\\\\Projects\\\\jvc-tv-responsive.sublime-project\"\n			]\n		],\n		\"width\": 380.0\n	},\n	\"select_symbol\":\n	{\n		\"height\": 0.0,\n		\"last_filter\": \"\",\n		\"selected_items\":\n		[\n		],\n		\"width\": 0.0\n	},\n	\"selected_group\": 1,\n	\"settings\":\n	{\n	},\n	\"show_minimap\": true,\n	\"show_open_files\": true,\n	\"show_tabs\": true,\n	\"side_bar_visible\": true,\n	\"side_bar_width\": 202.0,\n	\"status_bar_visible\": true,\n	\"template_settings\":\n	{\n	}\n}\n",
+			"file": "rockerbrosmeat.sublime-workspace",
+			"file_size": 55754,
+			"file_write_time": 130904430241312238,
+			"settings":
+			{
+				"buffer_size": 55754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.php",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 16665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 5770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 1733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "simple-image-widget/widget.php",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 9654,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "template-parts/content-page.php",
+			"settings":
+			{
+				"buffer_size": 943,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"file",
+				"File: Rename"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ints",
+				"Package Control: Install Package"
+			],
+			[
+				"DIRE",
+				"dired"
+			],
+			[
+				"di",
+				"dired"
+			],
+			[
+				"dire",
+				"dired"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"browser",
+				"Browser Integration: Settings (Default)"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"c",
+				"Package Control: Add Repository"
+			],
+			[
+				"SAV",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"gi",
+				"Package Control: Add Repository"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sni",
+				"Snippet: htmlinclude"
+			],
+			[
+				"rremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"snipp",
+				"Snippet: htmlcomment"
+			],
+			[
+				"git",
+				"Package Control: Add Repository"
+			],
+			[
+				"repsitor",
+				"Package Control: Add Repository"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Fe",
+				"Fetch: Manage remote files"
+			],
+			[
+				"F",
+				"Fetch"
+			],
+			[
+				"pak",
+				"Package Control: Discover Packages"
+			],
+			[
+				"fet",
+				"Fetch: Manage remote files"
+			],
+			[
+				"style",
+				"Set Syntax: Literate Haskell"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 435.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat"
+	],
+	"file_history":
+	[
+		"/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/DHALI-MM/Dropbox/Sublime/User/Monokai (SL).tmTheme",
+		"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/single.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/page.php",
+		"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/style.css",
+		"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/css/styles.css",
+		"/C/repositories/resources/code/wordpress-default-folders/header.php",
+		"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-content/themes/rockerbrosmeat/css/simplegrid.css",
+		"/C/repositories/resources/code/wordpress-default-folders/functions.php",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/css/styles.css",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/page-recipes.php",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/css/menu.css",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/newsletter-code.htm",
+		"/C/repositories/resources/code/php/php-loop.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/front-page.php",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/front-page.php",
+		"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/css/menu.css",
+		"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/footer.php",
+		"/C/repositories/websites-wordpress/notaryassist.com/wp-content/themes/notaryassist/archive-testimonial.php",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/functions.php",
+		"/C/repositories/websites/ViejoBaseball.org/css/styles.css",
+		"/C/repositories/websites/ViejoBaseball.org/index.asp",
+		"/C/repositories/websites-wordpress/cdaia.org/wp-config.php",
+		"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/css/styles.css",
+		"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-content/themes/kcwellness/header.php",
+		"/C/repositories/websites-wordpress/kcwellnesscenter.com/wp-config.php",
+		"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/functions.php",
+		"/C/Users/Mario/Downloads/tamalada-wordpress.txt",
+		"/C/Users/Mario/Downloads/tamalada-localhost.sql",
+		"/C/repositories/resources/code/rename-tables.txt",
+		"/C/Users/Mario/Downloads/wp-config.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-config.php",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-content/themes/durhamranch/header.php",
+		"/C/repositories/websites-wordpress/durhamranch.com/wp-config.php",
+		"/C/Users/Mario/Downloads/test.csv",
+		"/C/Users/Mario/Downloads/test-nevadatitle-users-export-short.csv",
+		"/C/Users/Mario/Downloads/test-nevadatitle-users-export-short.csv - test-nevadatitle-users-export-short.csv.csv",
+		"/C/Users/Mario/Downloads/nevadatitle-users-export-all.csv",
+		"/C/Users/Mario/Downloads/wp-members-user-export-10-03-15.csv",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/functions.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/inc/simplegrid.php",
+		"/C/repositories/websites/EliteKidsUsa.com/dance.asp",
+		"/C/repositories/websites/EliteKidsUsa.com/index.asp",
+		"/C/repositories/websites/EliteKidsUsa.com/aerial_arts.asp",
+		"/C/repositories/websites/EliteKidsUsa.com/camp.asp",
+		"/C/repositories/websites/EliteKidsUsa.com/open_gym.asp",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/css/styles.css",
+		"/C/Users/Mario/Dropbox/tamalada.com/order-form.txt",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/header.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/style.css",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/style.css",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/css/styles.css",
+		"/C/repositories/websites-wordpress/cdaia.org/wp-content/themes/cdaia/sidebar.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/header.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/css/styles.css",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/template-parts/content.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/template-parts/content-search.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/search.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/index.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/archive-clients.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/template-parts/content-clients.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/page-product.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/404.php",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/rotate.htm",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/style.css",
+		"/C/repositories/resources/code/php/php-not-frontpage.php",
+		"/C/repositories/websites/CalElite.com/index.asp",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/footer.php",
+		"/C/repositories/websites-wordpress/ffpnv.com/wp-content/themes/flocchini/functions.php",
+		"/C/repositories/websites-wordpress/rockerbrosmeat.com/wp-config.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/sidebar.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/page.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/simple-image-widget/widget.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/simple-image-widget/simple-image-widget.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/functions.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/footer.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/header.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/index.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/archive.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/search.php",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/tamalada/css/simplegrid.css",
+		"/C/repositories/websites-wordpress/devsite/wp-content/themes/twentyfifteen/page-sample-page.php",
+		"/C/repositories/websites-wordpress/fiveby5-us.com/wp-content/themes/fiveby5/header.php",
+		"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/css/styles.css",
+		"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/css/menu.css",
+		"/C/repositories/websites-wordpress/nevadatitle.com/wp-content/themes/nevadatitle.com/style.css",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/index.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/404.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/front-page.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/template-parts/content-none.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/single.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/css/menu.css",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/archive.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/search.php",
+		"/C/repositories/websites-wordpress/tamalada.com/wp-content/themes/tamalada/comments.php",
+		"/C/repositories/resources/code/php/php-post-thumbnail-url.php",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/bin/php/php5.5.12/php.ini",
+		"/C/repositories/websites-wordpress/cdaia.org/wp-content/themes/cdaia/front-page.php",
+		"/C/repositories/websites-wordpress/sierrameat.com/wp-content/themes/sierrameat/css/styles.css",
+		"/C/wamp/wampmanager.ini",
+		"/C/wamp/wampmanager.tpl",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/bin/apache/apache2.4.2/bin/php.ini",
+		"/C/wamp/bin/php/php5.4.3/ext/php_curl.dll",
+		"/C/repositories/websites-wordpress/emptech.com/wp-content/themes/emptech/functions.php",
+		"/C/Users/Mario/Downloads/php-5.4.3-Win32-VC9-x64/ext/php_curl.dll",
+		"/C/repositories/websites-wordpress/cdaia.org/wp-content/themes/cdaia/header.php",
+		"/C/Users/Mario/Dropbox/docs/dell-shipped.htm",
+		"/C/Users/Mario/Dropbox/docs/dell-order.htm",
+		"/C/repositories/websites/CalElite.com/theater.asp",
+		"/C/repositories/websites/CalElite.com/camp.asp",
+		"/C/repositories/websites-wordpress/coastconcierge.com/wp-content/themes/coastconcierge/header.php",
+		"/C/repositories/websites/EliteKidsUsa.com/preschool.asp",
+		"/C/repositories/assets/EmpTech.com/_comps/index.asp",
+		"/C/repositories/assets/EmpTech.com/_comps/products-page.asp",
+		"/C/repositories/websites-wordpress/lacpca.com/wp-content/themes/lacpca/content-single.php",
+		"/C/repositories/websites-wordpress/lacpca.com/wp-content/themes/lacpca/single.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/repositories/assets/DurhamRanch.com/_comps/index.asp",
+		"/C/repositories/websites-wordpress/notaryassist.com/wp-content/themes/notaryassist/header.php",
+		"/C/repositories/websites-wordpress/bafl.com/wp-content/themes/bafl/header.php",
+		"/C/repositories/websites-wordpress/lachiefs.com/wp-content/themes/lacpca/header.php",
+		"/C/repositories/websites-wordpress/lacpca.com/wp-content/themes/lacpca/header.php",
+		"/C/repositories/websites-wordpress/sdrtc.com/wp-content/themes/sdrtc/header.php",
+		"/C/repositories/websites-wordpress/anchormaninc.com/wp-content/themes/anchormaninc/header.php",
+		"/C/repositories/websites-wordpress/tamrasellsoc.com/wp-content/themes/agentpress/functions.php",
+		"/C/repositories/websites-wordpress/tamrasellsoc.com/wp-content/themes/genesis/lib/structure/header.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 347.0,
+		"where_history":
+		[
+			"<project>",
+			"W:\\StJosephRehabCenter.com",
+			"W:\\MontebelloCareCenter.com",
+			"C:\\Projects\\rwzant\\trunk\\Website",
+			"C:\\Projects\\case-jacket\\trunk\\Website",
+			"W:\\WestCoastVinylWindows.com",
+			"W:\\trainingjacket-asp",
+			"<project>",
+			"W:\\BlowMeAwayLa.com",
+			"W:\\SkilledHealthCare.com_new",
+			"W:\\QualityWoodCreationsOC.com",
+			"W:\\LiveOakNursingCenter.com",
+			"C:\\Projects\\goWildRiver\\trunk\\Website",
+			"W:\\HallettsvilleRehabandNursingCenter.com",
+			"C:\\Projects\\goWildRiver\\trunk",
+			"W:\\ArizonaLegalDocs.com",
+			"W:\\",
+			"W:\\MontanaPremierCare.com",
+			"W:\\SkiesHealthcare.com",
+			"W:\\SharonCarela.com",
+			"W:\\HancockParkRehab.com"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"featured-item ",
+			"body",
+			"html",
+			"legend",
+			"table",
+			"textare",
+			"img",
+			"font-fa",
+			".grid",
+			"grid",
+			"cover",
+			"body",
+			"html",
+			"body",
+			"h6",
+			"strong",
+			"<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">",
+			"caption",
+			"no",
+			" ",
+			"<p><",
+			"0",
+			"0.5",
+			"50%",
+			"rem",
+			"site-feature",
+			".feature",
+			".feature ",
+			", ",
+			"W",
+			"w",
+			"W",
+			"wp_",
+			"wp_a123456_",
+			"0",
+			",",
+			"lightbox",
+			"Download Flyer",
+			"active",
+			"halloween-night",
+			" <legend>Sign up for Parent's Night Out</legend>",
+			"halloween-night",
+			"images/camp/2015/halloween-lg.jpg\"",
+			"fieldset",
+			"     <p align=\"center\"><a href=\"https://www.iclassprov2.com/icpv2/parentportal/elitekids/camps?camptype=20\" class=\"btn btn-large\">Sign Up</a></p>",
+			"btn",
+			"Register &rarr;",
+			"div",
+			"camp-wrap well",
+			"div",
+			"<div class=\"camp-btn\">",
+			"%;\n",
+			"widget-tit",
+			";\n",
+			"href=\"\"",
+			"  ",
+			"   ",
+			" ",
+			"90",
+			",",
+			"92",
+			"Zip Code",
+			"714",
+			"Garden Grove",
+			"714",
+			"Fullerton	",
+			"Yorba Linda",
+			"714",
+			"657",
+			"Tustin",
+			"714",
+			"657",
+			"714",
+			"Santa Ana",
+			"714",
+			"657",
+			"Orange",
+			"949",
+			"Newport Beach",
+			"949",
+			"Laguna Hills",
+			"949",
+			"Irvine",
+			"714",
+			"657",
+			"Huntington Beach",
+			"714",
+			"\nBrea",
+			"657",
+			"714",
+			"Anaheim",
+			"<tr>\n				<tr>",
+			"		<tr>\n			<tr>",
+			"</tr>",
+			"<tr></tr>",
+			"<td></td>",
+			"</td>",
+			"City of ",
+			"2px",
+			"font-size",
+			"px;",
+			"		font-size: 36px;",
+			"5",
+			"script",
+			"site-",
+			"font-size",
+			"client-logo-item",
+			"Oct",
+			", ",
+			"menu-to",
+			"font-size",
+			";\n",
+			"font-size",
+			"Open",
+			"Wendy",
+			"form",
+			"a:",
+			"a:visite",
+			"main-navigation",
+			"static",
+			"max-wi",
+			"facebook",
+			"domainname.com",
+			"main-navigation",
+			"main-navigat",
+			"ul",
+			".info-link",
+			"info-link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'sdrtc'",
+			"sdrtc-",
+			"sdrtc",
+			"sdrtc_",
+			"'sdrtc'",
+			"(949) 717-6569",
+			"<title>Cal Elite Kids - Gymnastics, Dance, Cheer, Tumbling located in Rancho Santa Margarita, California</title>",
+			"Cal Elite Kids",
+			"Live Oak Nursing and Rehabilitation Center",
+			"Live Oak Nursing Center",
+			"Hallettsville Rehabilitation and Nursing Center",
+			"<li>",
+			"Skies Healthcare and Rehabilitation Center",
+			"Sharon Care Center",
+			"<li>",
+			"",
+			"</a></li>",
+			"<li><a",
+			"</h2>",
+			"<h2>",
+			"",
+			"edd_",
+			"images/gallery/weddings/",
+			"weddings/wedd_",
+			"personal_events/events_",
+			"</li>",
+			"<li>",
+			"",
+			"</p>",
+			"",
+			"<p>",
+			"  ",
+			"<hr />",
+			"",
+			"url(../images/gallery/",
+			"",
+			"<ul class=\"sponsors\">",
+			"</a></li>",
+			"<li><a ",
+			"</ul><h2>",
+			"</h2> <ul>",
+			"",
+			"<h2>",
+			" ",
+			"",
+			"<a href=\"\">Coral Coast Resorts</a>",
+			"coralcoast.jpg",
+			"",
+			"Hancock Park Rehabilitation Center",
+			"../images/menu/\n&reg;",
+			"\n&reg;",
+			"</li><li>",
+			"'",
+			"<li>",
+			"alt=\"",
+			"width=\"400\" height=\"200\"",
+			".png",
+			"images/feature/",
+			"<div class=\"slide\">",
+			"",
+			"<li><a href=\"Products.aspx?id=51\">",
+			"</a></li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1831,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										687,
+										690
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 593.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1506,
+								1506
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/DHALI-MM/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rockerbrosmeat.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 39716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										920,
+										923
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12724.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1109,
+								1109
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "simple-image-widget/widget.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5282,
+								5282
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7202.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "template-parts/content-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-markdown (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.3,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 148.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 758.0
+	},
+	"output.git":
+	{
+		"height": 127.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "rockerbrosmeat.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ind",
+				"index.asp"
+			],
+			[
+				"cont",
+				"template-parts\\content.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"sytle",
+				"css\\styles.css"
+			],
+			[
+				"f",
+				"footer.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"sty",
+				"css\\styles.css"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"sid",
+				"sidebar.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"dew",
+				"Web\\Dewalt.aspx"
+			],
+			[
+				"work",
+				"Web\\WorkGear.aspx"
+			],
+			[
+				"men",
+				"Web\\css\\menu.css"
+			],
+			[
+				"cart",
+				"Web\\Cart.aspx"
+			],
+			[
+				"pro",
+				"Web\\Products.aspx"
+			],
+			[
+				"prod",
+				"Web\\ProductDetail.aspx"
+			],
+			[
+				"ret",
+				"Web\\Retailers.aspx"
+			],
+			[
+				"p",
+				"Web\\Products.aspx"
+			],
+			[
+				"squ",
+				"squareup.asp"
+			],
+			[
+				"swimm",
+				"CalElite.com\\swimming.asp"
+			],
+			[
+				"dance",
+				"CalElite.com/dance.asp"
+			],
+			[
+				"ssi",
+				"ssi-header.htm"
+			],
+			[
+				"man",
+				"UserControl/ManagerMenu.ascx"
+			],
+			[
+				"st",
+				"Styles/styles.css"
+			],
+			[
+				"style",
+				"Styles/styles.css"
+			],
+			[
+				"style/",
+				"Styles/960.css"
+			],
+			[
+				"stye",
+				"Styles/styles.css"
+			],
+			[
+				"login",
+				"Login.aspx"
+			],
+			[
+				"defa",
+				"Default.aspx"
+			],
+			[
+				"spe",
+				"Specials.aspx"
+			],
+			[
+				"site",
+				"Site.Master"
+			],
+			[
+				"customer",
+				"Customer-Service.aspx"
+			],
+			[
+				"mark",
+				"Marketing.aspx"
+			],
+			[
+				"what",
+				"Whats-New.aspx"
+			],
+			[
+				"custrer",
+				"Customer-Service.aspx"
+			],
+			[
+				"head",
+				"UserControl/Header.ascx"
+			],
+			[
+				"pla",
+				"Public/Plans.aspx"
+			],
+			[
+				"sig",
+				"Public/Signup.aspx"
+			],
+			[
+				"new",
+				"news.asp"
+			],
+			[
+				"adminemail",
+				"admin_editEmailLetter.asp"
+			],
+			[
+				"admin",
+				"admin_editEvents.asp"
+			],
+			[
+				"mynew",
+				"myNewsDetails.asp"
+			],
+			[
+				"email",
+				"emailMembers.asp"
+			],
+			[
+				"mytra",
+				"myTraining.asp"
+			],
+			[
+				"mypr",
+				"myProfile.asp"
+			],
+			[
+				"mymer",
+				"myMembersDetails.asp"
+			],
+			[
+				"event",
+				"eventRegistration.asp"
+			],
+			[
+				"eventre",
+				"eventRegistrationEdit.asp"
+			],
+			[
+				"mymemb",
+				"myMembers.asp"
+			],
+			[
+				"admindue",
+				"admin_duesReport.asp"
+			],
+			[
+				"addmyev",
+				"admin_addMyEvents.asp"
+			],
+			[
+				"myre",
+				"myResource.asp"
+			],
+			[
+				"myem",
+				"myMembers.asp"
+			],
+			[
+				"mys",
+				"myStatus.asp"
+			],
+			[
+				"myp",
+				"myProfile.asp"
+			],
+			[
+				"myt",
+				"myTraining.asp"
+			],
+			[
+				"mymemberes",
+				"myMembersResults.asp"
+			],
+			[
+				"dues",
+				"admin_duesReport.asp"
+			],
+			[
+				"editem",
+				"admin_editEmailLetter.asp"
+			],
+			[
+				"membercla",
+				"admin_MemberClassification.asp"
+			],
+			[
+				"memberty",
+				"admin_MemberType.asp"
+			],
+			[
+				"resour",
+				"admin_ResourceCategory.asp"
+			],
+			[
+				"news",
+				"admin_NewsType.asp"
+			],
+			[
+				"addmy",
+				"admin_addMyEvents.asp"
+			],
+			[
+				"addprof",
+				"admin_addProfile.asp"
+			],
+			[
+				"applic",
+				"admin_PendingApplicants.asp"
+			],
+			[
+				"mypro",
+				"myProfile.asp"
+			],
+			[
+				"logi",
+				"login.asp"
+			],
+			[
+				"una",
+				"unavailable.asp"
+			],
+			[
+				"report",
+				"report_Event.asp"
+			],
+			[
+				"myv",
+				"myVoting.asp"
+			],
+			[
+				"mytrainin",
+				"myTrainingPrint.asp"
+			],
+			[
+				"das",
+				"dashboard.asp"
+			],
+			[
+				"styl",
+				"WebsiteDefaultFolders/css/styles.css"
+			],
+			[
+				"in",
+				"CoastConcierge.com/index.asp"
+			],
+			[
+				"res",
+				"css/reset.css"
+			],
+			[
+				"list",
+				"ssi_slideshow.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\jvc-tv-responsive.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
